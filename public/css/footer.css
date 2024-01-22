@@ -1,0 +1,25 @@
+.full-width-footer .footer-legal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* // position: relative; */
+    align-self: stretch;
+    /* // width: 100%; */
+    /* flex: 0 0 auto; */
+    padding: 30px 25px;
+}
+
+.full-width-footer .footer-legal .frame-5 {
+
+    display: flex;
+
+}
+
+.full-width-footer .footer-legal .frame-5 .nav-menu-item,
+.full-width-footer .footer-legal .frame-5 .nav-menu-item-2 {
+    margin-right: 15px;
+}
+
+.full-width-footer .footer-legal .wrapper a svg:hover {
+    fill: green;
+}

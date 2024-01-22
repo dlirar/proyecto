@@ -1,0 +1,29 @@
+  /* ESTILOS DE TABLA DE GRUPO */
+  .containerTablaProfesores {
+    padding: 65px 45px 55px;
+  }
+  
+  .containerTablaProfesores h1 {
+    margin-bottom: 25px;
+  }
+  
+  
+  /* ESTILOS DE EDICION O AGRREGAR GRUPO */
+  
+  .edicionGrupo {
+    padding: 65px 45px 55px;
+  }
+  
+  .edicionGrupo .contenedorInfo input {
+  
+  
+    width: 60% !important;
+  }
+  
+  .edicionGrupo .contenedorInfo textarea {
+    width: 80% !important;
+  }
+  
+  .edicionGrupo .tabblaAlumnos table tbody tr td:last-child{
+    text-align: center;
+  }
